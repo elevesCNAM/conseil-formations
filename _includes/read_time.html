@@ -1,0 +1,8 @@
+<span class="read-time" title="Estimated read time">
+  {% assign words = content | number_of_words %}
+  {% if words < 360 %}
+    Temps de lecture : 1 minute
+  {% else %}
+    Temps de lecture : {{ words | divided_by:180 }} minutes
+  {% endif %}
+</span>

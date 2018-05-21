@@ -1,0 +1,59 @@
+---
+title: Représentants des élèves
+timezone: Europe/Paris
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: stephane.manet.auditeur@lecnam.net
+description: Représentants des élèves au Conseil des Formations du CNAM.
+url: https://cnam.stephanemanet.com
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: "<!--more-->"
+permalink: "/articles/:year-:month/:title"
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+owner:
+  name: Représentants des élèves
+  avatar: logo.png
+  job: Stéphane Manet et Kyra Constantinoff
+  bio: Conseil des formations du Conservatoire National des Arts et Métiers.
+  email: stephane.manet.auditeur@lecnam.net
+  disqus-shortname: 
+  twitter: stephanemanet
+  facebook: 
+  google:
+    plus: 
+    analytics: UA-34832726-5
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: elevesCNAM/cf-college6
+  gitlab: 
+  stackoverflow: 
+  linkedin: 
+  skype: 
+  xing: 
+  instagram: 
+  lastfm: 
+  tumblr: 
+  pinterest: 
+  foursquare: 
+  steam: 
+  dribbble: 
+  youtube: 
+  soundcloud: 
+  weibo: 
+  flickr: 
+  500px: 
+  codepen: 
+  reddit: 
