@@ -32,6 +32,9 @@
     font-size: 1.75em;
     text-transform: lowercase;
   }
+.author_name:hover{
+    color: $text-color;  
+}
   .author_job {
     display: block;
     color: $secondary;

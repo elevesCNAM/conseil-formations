@@ -4,7 +4,6 @@ date: 2018-04-18 17:07:19 +02:00
 categories:
 - Élections
 layout: post
-comments: true
 ---
 
 L’inscription sur les listes électorales du CNAM arrive à échéance ce vendredi. Cette inscription vous permettra de voter pour choisir ceux qui vous représenteront au sein du conseil des formations.

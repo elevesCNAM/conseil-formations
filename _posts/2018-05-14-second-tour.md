@@ -4,10 +4,6 @@ date: 2018-05-14 00:00:00 +02:00
 categories:
 - Élections
 layout: post
-excerpt: Au lendemain du premier tour des élections au Conseil des formations, nous
-  tenons à vous dire combien nous sommes touchés par l’effort que vous avez réalisé
-  pour nous soutenir et nous accorder votre confiance.
-comments: true
 ---
 
 Au lendemain du premier tour des élections au Conseil des formations, nous tenons à vous dire combien nous sommes touchés par l’effort que vous avez réalisé pour nous soutenir et nous accorder votre confiance.

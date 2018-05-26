@@ -74,6 +74,9 @@ section.post {
 		text-transform: uppercase;
 		color: $warning;
 	}
+  .post-cat:hover{
+    color:$text-color;
+  }
   .read-time {
     color: $primary;
   }
