@@ -26,4 +26,4 @@ Les demandes de procurations peuvent se faire les 15 et 16 mai rue de Conté, fa
 
 Nous vous remercions encore pour votre précieux soutien et nous comptons sur votre participation le Jeudi 17 mai.
 
-[Télécharger le communiqué](ELECTIONS CF 2018 - COLLEGE 6  - CANDIDAT MANET.pdf)
+[Télécharger le communiqué](https://cnam-my.sharepoint.com/:b:/g/personal/stephane_manet_auditeur_lecnam_net/EcgEGzEoQplOv2Hl0akcBp0Blt5wM10eff9B6SKZdZKLdA?e=A7agtK)

@@ -25,7 +25,7 @@ Afin de nous soutenir, si vous êtes inscrits à des enseignements totalisant pl
 
 Contactez-nous pour toute question ou tout problème concernant votre inscription sur les listes électorales.
 
-[Téléchargez ici notre profession de foi](#).
+[Téléchargez ici notre profession de foi](https://cnam-my.sharepoint.com/:b:/g/personal/stephane_manet_auditeur_lecnam_net/ET5stDEEAj1BuLvMgGYMYxIBRaZWpCTMgX1HrDARerzf2Q?e=ecXwNe).
 
 Kyra et moi-même comptons fort sur votre mobilisation.
 
