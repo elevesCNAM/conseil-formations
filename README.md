@@ -6,7 +6,7 @@ Ce projet est sous licence MIT, donc faites-en ce que vous voulez. Il est pr√©f√
 ## Installation
 
 ```
-git clone https://github.com/elevesCNAM/cf-college6
+git clone https://github.com/elevesCNAM/conseil-formations
 cd cf-college6
 jekyll server
 ```
