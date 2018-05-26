@@ -23,7 +23,7 @@
   <meta property="og:title" content="{{ site.description }}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}" />
-  <meta property="og:image" content="{{ site.url }}/img/{{ page.image.feature || og_image }}" />
+  <meta property="og:image" content="{{ site.url }}/img/{{ page.image.feature || site.og_image }}" />
   <meta property="og:locale" content="fr_FR" />
   <meta property="og:description" content="Site internet de Stéphane Manet et Kyra Constantinoff, représentants des élèves au Conseil des Formations du CNAM pour la mandature 2018-2020." />
 </head>
