@@ -10,6 +10,7 @@ collections:
     output: true
 email: stephane.manet.auditeur@lecnam.net
 description: Représentants des élèves au Conseil des Formations du CNAM.
+og_image: og-image.jpg
 url: https://cnam.stephanemanet.com
 markdown: kramdown
 highlighter: rouge
