@@ -7,7 +7,7 @@ Ce projet est sous licence MIT, donc faites-en ce que vous voulez. Il est pr√©f√
 
 ```
 git clone https://github.com/elevesCNAM/conseil-formations
-cd cf-college6
+cd conseil-formations
 jekyll server
 ```
 
