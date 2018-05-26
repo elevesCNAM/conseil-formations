@@ -24,9 +24,7 @@ Nous serons vigilants à la qualité des parcours de formation et nous nous enga
 
 **Tout au long de notre mandat, nous vous invitons à nous contacter pour nous faire part de vos expériences.**
 
-Retrouvez nos contacts, les actualités du Conseil, ainsi que nos propositions, communiqués et prises de paroles à l’adresse :
-
-https://cnam.stephanemanet.com
+Retrouvez nos contacts, les actualités du Conseil, ainsi que nos propositions, communiqués et prises de paroles sur [le site](https://cnam.stephanemanet.com).
 
 Nous prenons toute la mesure de cet engagement pour les deux ans à venir. Nous voulons pouvoir réaliser un mandat en phase avec le réel, un mandat avec vous.
 
