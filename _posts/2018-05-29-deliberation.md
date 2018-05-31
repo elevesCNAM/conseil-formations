@@ -18,4 +18,4 @@ En retour de séance les propositions de candidatures, appuyées de c.v., furent
 
 Madame Nasser n'a pas reçu le mandat du fait de ces règles paritaires mais elle a reçu une majorité absolue, soit plus de 10 sur les 18 voix du Conseil. Elle est par ailleurs membre du bureau de l'AFREF, également ancienne directrice du GIP CARIF-OREF Ile-de-France, ancienne directrice de l'Emploi et de la Formation Continue au Conseil Régional Rhône-Alpes et ancienne conseillère technique au cabinet de Nicole Pery, secrétaire d'état à la formation professionnelle au ministère du travail de mars 1999 à juin 2000.
 
-[Voici le délibéré tel que je l'ai reçu](https://cnam-my.sharepoint.com/:b:/g/personal/stephane_manet_auditeur_lecnam_net/EfXWwfLGhvpAoDhmb-VeAogBtkKcda5D6SkJLW5vwuyeLA?e=HfdoX4), simplement converti en pdf pour le rendre interopérable.
+[Voici le délibéré tel que je l'ai reçu](https://cnam-my.sharepoint.com/:b:/g/personal/stephane_manet_auditeur_lecnam_net/EfXWwfLGhvpAoDhmb-VeAogBtkKcda5D6SkJLW5vwuyeLA?e=HfdoX4), simplement converti en pdf pour le rendre [interopérable](https://www.april.org/formats-ouverts-pour-quoi-faire).
