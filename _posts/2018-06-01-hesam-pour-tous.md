@@ -15,7 +15,7 @@ La société évolue, la recherche aussi ; il faut que les moyens de son finance
 
 En qualité de représentant des élèves au Conseil des Formations, je suis grand électeur de la COMUE pour désigner les représentants des usagers au Conseil d’Administration. Je mesure la responsabilité que porte le CNAM dans le développement de ces offres innovantes et je suis convaincu que ses étudiants et alumnis qui font en grande partie la richesse de cet établissement.
 
-** C’est pourquoi je soutien la liste de Clément Genty [HeSam pour tous]( http://hesampourtous.fr/). **
+**C’est pourquoi je soutien la liste de Clément Genty [HeSam pour tous]( http://hesampourtous.fr/).**
 
 Les démarches de propositions et de transparence de cette liste vont dans le sens de mes engagements et faciliteront le travail entre nos différents établissements.
 
